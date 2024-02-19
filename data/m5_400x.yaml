@@ -1,0 +1,11 @@
+path: datasets/malariadtst/Images/
+train: 'HCM/train/400x'
+val: 'LCM/test/400x'
+
+# class names
+names: 
+  0: "ring"
+  1: "trophozoite"
+  2: "schizont"
+  3: "gametocyte"
+
