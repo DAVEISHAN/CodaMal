@@ -30,3 +30,12 @@ Change --data m5_400x.yaml to m5_100x.yaml/m5_1000x.yaml to try other resolution
 The output of training will finish with:
 Results saved to runs\detect\train
 Navigate to folder to see prediction on both training and validation data
+
+
+### Citation
+@article{dave2024codamal,
+  title={CodaMal: Contrastive Domain Adaptation for Malaria Detection in Low-Cost Microscopes},
+  author={Dave, Ishan Rajendrakumar and de Blegiers, Tristan and Chen, Chen and Shah, Mubarak},
+  journal={arXiv preprint arXiv:2402.10478},
+  year={2024}
+}
