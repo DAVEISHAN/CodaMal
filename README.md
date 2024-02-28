@@ -31,11 +31,15 @@ The output of training will finish with:
 Results saved to runs\detect\train
 Navigate to folder to see prediction on both training and validation data
 
-
 ### Citation
+If you find the repo useful for your research, please consider citing our paper: 
+```
 @article{dave2024codamal,
   title={CodaMal: Contrastive Domain Adaptation for Malaria Detection in Low-Cost Microscopes},
   author={Dave, Ishan Rajendrakumar and de Blegiers, Tristan and Chen, Chen and Shah, Mubarak},
   journal={arXiv preprint arXiv:2402.10478},
   year={2024}
 }
+```
+For any questions, welcome to create an issue or contact Ishan Dave ([ishandave@ucf.edu](mailto:ishandave@ucf.edu)).
+
